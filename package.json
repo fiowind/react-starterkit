@@ -40,7 +40,8 @@
     "object-assign": "^4.0.1",
     "orchestrator": "^0.3.7",
     "react-addons-test-utils": "^0.14.2",
-    "webpack": "^1.12.3"
+    "webpack": "^1.12.3",
+    "svg-inline-loader": "^0.4.0"
   },
   "dependencies": {
     "history": "^1.13.0",
